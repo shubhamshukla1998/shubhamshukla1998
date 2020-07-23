@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**shubhamshukla1998/shubhamshukla1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hi there! My name is Shubham Shukla and I lives in New Delhi, India. I am currently a undergraduate student pursuing B.Tech (CSE) from GGSIPU, New Delhi. I am a Web Development Ethusiast, I have some personal projects which you can find out on my github do look into it and share your feedbacks. I have done a couple of internships as a Web Developer.I always willing to learn about new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I am currently wokring on my Final Year Project.
+- 🌱 I am also preparing for my college placements and interviews.
+- 💬 You can ping me anytime :point_down:
+- 📫 Email: shubhamshukla1998@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My Code is Working!
