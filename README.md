@@ -6,8 +6,12 @@ Hi there! My name is Shubham Shukla and I lives in New Delhi, India. I am curren
 
 
 - 🔭 I am currently wokring on my Final Year Project.
-- 🌱 I am also preparing for my college placements and interviews.
+- 🌱 I am preparing for my college placements and interviews.
 - 💬 You can ping me anytime :point_down:
 - 📫 Email: shubhamshukla1998@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My Code is Working!
+- ⚡ Fun fact: Always have fun while coding! :)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shubhamshukla1998&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshukla1998&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
